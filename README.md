@@ -125,8 +125,8 @@ A partir disso, o HTML é impactado visualmente.
 - One shot: uma única pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
 - Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução
-  1 - Especialidade 
-  2 - Tarefa 
-  3 - Regras 
-  4 - Resposta 
-  5 - Exemplo de resposta
+  - 1 - Especialidade 
+  - 2 - Tarefa 
+  - 3 - Regras 
+  - 4 - Resposta 
+  - 5 - Exemplo de resposta
